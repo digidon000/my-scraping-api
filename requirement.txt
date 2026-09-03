@@ -1,5 +1,7 @@
 fastapi
-uvicorn
-beautifulsoup4
+uvicorn[standard]
 requests
+beautifulsoup4
+lxml
 python-dateutil
+pydantic
